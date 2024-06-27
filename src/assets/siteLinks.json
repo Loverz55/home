@@ -19,7 +19,7 @@
     "name": "今日热榜",
     "link": "https://hot.ailyz.icu/"
   },
-  /* {
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
@@ -33,5 +33,5 @@
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
-  }, */
+  }
 ]
