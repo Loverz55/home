@@ -10,28 +10,28 @@
     "link": "https://tools.ailyz.icu/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
     "icon": "Compass",
     "name": "图片压缩",
     "link": "https://pic.ailyz.icu/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.ailyz.icu/"
   },
-  {
+  <!-- {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
-  }
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://web.imsyy.top/"
+  },
+    {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.imsyy.top/"
+  }, -->
 ]
