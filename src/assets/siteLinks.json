@@ -33,5 +33,10 @@
     "icon": "CompactDisc",
     "name": "学习英语",
     "link": "https://eng.ailyz.icu/"
+  },
+    {
+    "icon": "CompactDisc",
+    "name": "新年倒计时",
+    "link": "https://years.ailyz.icu/"
   }
 ]
